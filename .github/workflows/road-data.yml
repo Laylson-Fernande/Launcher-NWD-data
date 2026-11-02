@@ -149,3 +149,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+# Publicado no GitHub Pages deste repo público de dados; o código do app fica no repo privado.
